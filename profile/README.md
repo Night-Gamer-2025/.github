@@ -8,7 +8,7 @@
 
 | **🔤 Name**         | **📦 Version**  | **📏 Size** | **🖥️ Supported OS** | **🆔 Package ID**        | **📥 Downloads**  | **🏷️ Category**   | **🕒 Last Updated** |
 |---------------------|-----------------|------------|----------------------|--------------------------|-------------------|-------------------|---------------------|
-| Night Gamer         | 0.2.0           | 85 MB      | Android 5.0+         | com.nightgamer.game      | 100,000+          | Action, Adventure | 2024-11-22          |
+| Night Gamer         | 0.2.0           | 85 MB      | Android 5.0+         | com.nightgamer.game      | 100,000+          | Action, Adventure | 2024-10-12          |
 
 ![nightgamer-apk-thumbnail](https://github.com/user-attachments/assets/9378a897-7498-4192-9868-4eb6de1d5827)
 
